@@ -5,13 +5,14 @@ The purpose of this analysis was to help Steve analyze an entire dataset quickly
 ## 2. Results
 Overall, the stocks performed better in 2017 than 2018 with all but one stock having a positive yearly return. Conversely in 2018, all but two stocks had negative yearly returns. Those two stocks ENPH and RUN both had positive yearly returns in 2017 and 2018 and may be good ones for Steve to suggest his parents research further.
 
+![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Stock%20Performance%20in%202017.PNG)
+![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Stock%20Performance%20in%202018.PNG)
+### Stock performance 
 
-### Stock performance in 2017
- 
-### Stock performance in 2018
 The refactored script ran much faster than the original script. 
 
-  
+![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Execution%20time%20of%20original%20script%202017.PNG)
+![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Execution%20time%20of%20original%20script%202018.PNG)
 ### Execution times of original script
 ![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 ![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
