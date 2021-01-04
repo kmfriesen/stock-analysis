@@ -3,7 +3,7 @@
 ## 1. Overview of the Project
 The purpose of this analysis was to help Steve analyze an entire dataset quickly and easily so that he can help his parents make the best decision about which green energy stocks to invest in. In order to make the code more efficient the code was refactored to make the VBA script run faster. 
 ## 2. Results
-Overall, the stocks performed better in 2017 than 2018 with all but one stock having a positive yearly return. Conversely in 2018, all but two stocks had negative yearly returns. Those two stocks ENPH and RUN both had positive yearly returns in 2017 and 2018 and may be good ones for Steve to suggest his parents research further.
+Overall, the stocks performed better in 2017 than 2018 with all but one stock having a positive yearly return in 2017. Conversely in 2018, all but two stocks had negative yearly returns. Those two stocks, ENPH and RUN, both had positive yearly returns in 2017 and 2018 and may be good ones for Steve to suggest his parents research further.
 ### Stock performance results
 ![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Stock%20Performance%20in%202017.PNG) 
 ![alt text](https://github.com/kmfriesen/stock-analysis/blob/main/Stock%20Performance%20in%202018.PNG)
